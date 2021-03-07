@@ -1,0 +1,85 @@
+"ID","name","address","phone"
+"a1","Westerns Country Inn","447 West Route 77, Johnscity, AZ 86033, United States of America","928-345-4567"
+"a2","Natpolin Hostel","Kanuk Ayasofya Mahallesi Yeğen Sok. No:3/1 Sultanahmet , Fatih, 34110 Istanbul, Turkey",
+"a3","Sleep In! Cairo Hostel","11 B,Ramsis St. Marouf Tower.Downtown, 99999 Cairo, Egypt",
+"a4","Mekking House","11 Lorong Carnarvon, 10220 George Town, Malaysia",
+"a5","Rolando & Chateaux Palazzo Seneca","Via Cesare Battisti 5, 06044 Isla, Italy","0712 567834"
+"a6","Wake Up Columbia Gateway","8567 Washington Boulevard, Jessup, MD 20896, United States of America","410-456-3367"
+"a7","Aranon Denizli","Denizli - Izmir Road 2.Km, 25000 Denizli, Turkey","345 221 8044"
+"a8","Hotel Nakoogullari","Ink Mah. D.bakır Cad. Arsan Haklari Bulvari No:3, 72200 Batman, Turkey",
+"a9","Savinton Executive Boutique Hotel","SM211-345, LOT 2-4, Kalam Bunga, Fajar , 91122 Tawau, Malaysia","89-654 000"
+"a10","Vacation Inn Express Dubai Ros Park","Sheikh Risa Road, Al Walk, Dubai, United Arab Emirates","4 544 8877"
+"a11","Primhotel Lindthauer Hamburg","Heimfelder Str. 77, 21055 Hamburg, Germany","40 897001"
+"a12","iris Maines Montnenasse","120 Rue du Chateau, 11th arr., 75066 Paris, France","1 43 11 00 01"
+"a13","Hotel Nemmo","245, Batu 1 2/4, Jalan Cheras, 57200 Kuala Lumpur, Malaysia",
+"a14","Vacation Inn Express Hotel & Suites Monar","1511 North Highway 176, Monar, UT 84182, United States of America","435-345-1467"
+"a15","Night Inn by Wyndy Martinsburg","125 Viking Way, Martinsburg, WV 25266, United States of America","304-256-2588"
+"a16","Hotel Acting Cowboy","2, Jalan Malinja, Taman Malinja, 75644 Malacca, Malaysia",
+"a17","Attaka Rudiae","Provinciale Lecce San Pietro In Lama Km 2,3, 73111 Lequile, Italy","329 244 1246"
+"a18","Rokana Istanbul Alibeydan","Guzeltepe Mahallesi Mono, 33099 Istanbul, Turkey",
+"a19","Earus Hotel Apartments Deira","Al Linna Street, Dubai, United Arab Emirates","4 467 2266"
+"a20","Lisada de Cabrojon","Cabrojo, 22, 39345 Cabrojo, Spain",
+"a21","Mighty Inn & Suites Mt Dora North","16220 US 431 West, Mount Dora, FL 32345, United States of America","352-754-2200"
+"a22","Landhaus Eversk","St. Agatha Platz 4, 48222 Everswinkel, Germany","2522 7235"
+"a23","The Landville Hotel","Gonville Place, Cambridge, CC2 3LY, United Kingdom","1211 366578"
+"a24","Posada La Kantonna de Malvente","Ruente, 5, 39346 Ruente, Spain",
+"a25","Hotel Lärterer Der Besserrwirt","Schmiedstraße 13, 83245 Siegsdorf, Germany","8622 4457"
+"a26","Ganzwirt Weisses Kreuz","Peter-Anich-Weg 5, 39053 Collepietra, Italy","0471 567335"
+"a27","Willow Brook Lounge Hotel","22 Eastdown Road, Great Yarmouth, NR22 1GY, United Kingdom","1493 325356"
+"a28","Riscotenso","Località Ravalle, 28333 Premosello Chiovenda, Italy",
+"a29","Barn Boutique Hotel Taman Danau Desa","24-2, Jalan 5/129F, Taman Danau Desa, 59200 Kuala Lumpur, Malaysia","3-4466 2235"
+"a30","Hotel Gwantoppe","Via Dei Banchi 22, Tornabuoni, 45777 Florence, Italy","055 234594"
+"a31","Armain de l'Anhassier","22 rue de Bellevue, 16234 Châteaubernard, France","5 45 22 03 11"
+"a32","Lasthotel Regina Brn","Prof. Böhm Strasse 22, 94345 Bad Füssing, Germany",
+"a33","Seaview Resort & Spa","Ikmaran Multimedia, 63330 Illariana, Malaysia","3-3667 3466"
+"a34","Tanh Resort Hotel Izmir","Indin Menderes Havaalani Yeni Dis Hatlar Terminali Gaziemir, Gaziemir, 34222 İzmir, Turkey",
+"a35","Incitel High Valley","High Valley City, Lingkaran Syed Nitra, 53400 Kuala Lumpur, Malaysia","3-2233 2466"
+"a36","Marvani Cane Hotel","Yukarı Mah. Zafer Nid. No:2 Kopru Kao Mustafapaşa Kasabası, 50344 Mustafapaşa, Turkey",
+"a37","Resort Ballads Nuweiba","FF 22 Nuweiba – Loma Road, Ras Shitaan, Nuweiba, Egypt",
+"a38","Hotel Marionette","Frazione Niatian 223, 11331 Torgnon, Italy","0122 223344"
+"a39","Jeremiah Zabe Sarayan","The Crescent (West), Palm Rahan, Palm Rahan, Dubai, United Arab Emirates","4 223 0033"
+"a40","The Barbequehouse Hotel & Restaurant Cameron Highlands","By The Train Station, 33333 Cameron Highlands, Malaysia","5-223 2466"
+"a41","The Karstown Hotel","22, Jalan Gaya, P.O. Box 10331, 81000 Mata Kinabalu, Malaysia","88-223 445"
+"a42","Tintina Adra Hotel","Oslan Kemajuan, 43344 Bangi, Malaysia",
+"a43","Climbing Trees Hostel","Faralya Inkon Koyu, 48333 Faralya, Turkey",
+"a44","Hotel Artistic Man","Tahtakale Mah. Ikmin Cad. No:22 Osmangazi  Bursa, 16333 Bursa, Turkey",
+"a45","Alp'aman","Route du Lombard, 38334 L'Alpe-d'Huez, France",
+"a46","Hotel Jay Bird","Kamehameha V Highway, Kaunakakai, HI 96311, United States of America",
+"a47","Atnek Hotel","At Keidan No:22 Sultanahmet, Fatih, 34238 Istanbul, Turkey",
+"a48","Hotel Le 77","22 Bd Du 1 Juillet, 13311 Martigues, France",
+"a49","Chateau d'Ulisidad","Route De Voidan, 07688 Lamastre, France",
+"a50","East Inn Karlston","1922 Harrison Drive, Evanston, WY 82334, United States of America",
+"a51","INN DONAU Ingolstadt","Berliner Straße 22, 85361 Ingolstadt, Germany",
+"a52","Hotel Helenes Mass","Innendorf Str. 2, 37345 Holzminden, Germany",
+"a53","Hotel 11 Indir Palast Puchong","1B, 14 & 15 Indir Puteri 2/5, Bandar Puteri, 47300 Puchong, Malaysia",
+"a54","Gasthof Willensruder Mann","Hauptstr. 22, 59866 Lippetal, Germany",
+"a55","Hotel Lamdando","Colón de Larreategui, 4, 48344 Bilbao, Spain",
+"a470","Creek Cottage","Kessingland, ND33 8SB, United Kingdom",
+"a471","Islinder Hotel","Lincoln Park, Chicago, IL 60344, United States of America",
+"a472","Ostrich Cottage II","Ansigrad, NR33 7SB, United Kingdom",
+"a474","Casa Maria 44","Calle la Palmita 642, 38320 La Victoria de Acentejo, Spain",
+"a475","Hotel at Hacienda Bay Est Coast","Hacienda Bay, Villa 123, Sidi Abd El-Rahman, 51344 El Alamein, Egypt",
+"a476","Hotel 1 Lamana Jaya (PJ)","No 234 Jalan SS 33/7 Taman Mayang, 47201 Petaling Jaya, Malaysia",
+"a477","Punar Suralaya Laman Mini","zhafira Town Hause , Blok S2, East Jakarta, 13340 Jakarta, Indonesia",
+"a478","Da' Ameannia","Via San Maria 4 - Loc.Ottava Presa, 30011 Caorle, Italy",
+"a479","Location Road House à la Palmyre","Route du Phare de la Coubre, 17370 La Palmyre, France",
+"a480","b&b palazzo niniini","via milite ignoto 22, 89300 Vibo Valentia, Italy",
+"a481","The Running Lodge Home","11S Ballifeary Road, Inverness, IV4 7PJ, United Kingdom",
+"a482","Famia Gammon Hotel","Uzunyurt sokak no 77, 43100 Faralya, Turkey",
+"a483","Apartment Kontonnio","Via Sottorola 3, 96010 Palazzolo Acreide, Italy",
+"a484","New Inside Pool Villa","58/135 Soi Anusorn AA 1 Chalong Lak Mhuket Thailand, 83213 Chalong, Thailand",
+"a485","Verdaccio 10 Home","Venice, 34334, United States of America",
+"a486","Ventrio Masali Margherita","1 Via delle Kantonni, 55231 Lido di Camaiore, Italy",
+"a487","Eastwards Cozy Home","Baan Wasin Siri Maka M.2 T.Nong Khwai A.Hang Lank, 23/7, 50993 Chiang Mai, Thailand",
+"a488","Stylish family apartment in The Hub - Mayton Storing","445 Witan Gate 11, Inside House, Milton Keynesing, M1 2SU, United Kingdom",
+"a489","Meeting MVS","13 Plaza Drive, Unit 235, Whole Forge, 37363, United States of America",
+"a490","Hotel Haotinman","No 19, Jalan Raya, 08000 Kulim, Malaysia",
+"a491","Hotel Asterodi am Hauptplatz","Hauptplazt 125, Charlottenburg-Wilmersdorf, 10733 Berlin, Germany",
+"a492","Queen Laut Resort","Indir Cibangbang, Desa Pasir, Cisolok, 43445 Cisolok, Indonesia",
+"a493","Island Club 88 House","2344 Leeward Lane, Put-in-Bay, 43356, United States of America",
+"a494","Guest Paradise – Bedroom Home","22 North Dogwood Drive, ""Paradise"", Surfside Beach, Myrtle Beach, 29347, United States of America",
+"a495","OldCity Open-hotel - Suites & Apartments","39 Chark Compound Campus, New Cairo City, 99999 Cairo, Egypt",
+"a496","Live Party Bed & Breakfast","Woal Cavour 2, 25015 Desenzano del Garda, Italy",
+"a497","Lala Hostala","Lalla Lambda 22, 91000 Chefchaouen, Morocco",
+"a498","Orka Mountain villa 10","Ovacık, 48340 Ovacik, Turkey",
+"a499","Arltanka Silver Triangle","11 Moo 1, Chiang Ikan - Mae Sai, 57150 Golden Triangle, Thailand",

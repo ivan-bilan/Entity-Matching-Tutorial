@@ -1,0 +1,85 @@
+"ID","name","city","country","zip","street","phone"
+"ba1","Westerns Country Inn Bed & Breakfast","Johnscity","United States",86033,"West Route 77 447","+1 928-345-4567"
+"ba2","Natpolin Hotel","Istanbul","Turkey",34110,"Kanuk Ayasofya Mahallesi Yeğen Sok. No:3/1 Sultanahmet , Fatih, ,",
+"ba3","Sleep IN Cairo Hostel","Cairo","Egypt",11511,"11 B, Ramses Street, Downtown",
+"ba4","Mekking House","George Town","Malaysia",10220,"11 Lorong Carnarvon",
+"ba5","Palazzo Seneca","Isla","Italy",6046,"Via Cesare Battisti, 5","+39 0712 567834"
+"ba6","Wake Up Jessup","Jessup","United States",20896,"Washington Boulevard 8567","+1 410-456-3367"
+"ba7","Aranon Denizli","Izmir","Turkey",20000,"Izmir Karayolu 2 km","+90 345 221 8044"
+"ba8","Hotel Nakooğullari","Batman","Turkey",72200,"Ink Mah. D.bakır Cad. Arsan Haklari Bulvari No:3",
+"ba9","Savinton Executive Boutique Hotel","Tawau","Malaysia",91122,"TB 211-345, LOT 2-4, KALAM BUNGA, FAJAR","+60 89-654 000"
+"ba10","Vacation Inn Express Dubai Safa Park","Dubai","United Arab Emirates",,"Sheikh Risa Road, Al Walk District, Box 71145","+971 4 544 8877"
+"ba11","Primhotel Lindthauer Hamburg","Hamburg","Germany",21055,"Heimfelder Str. 77","+49 40 897001"
+"ba12","iris Paris Maines Montnenasse 11ème","Paris","France",75066,"120 rue du Château","+33 1 43 11 00 01"
+"ba13","Hotel Nemmo","Cheras | Kuala Lumpur","Malaysia",57200,"245 Batu 1 2/4 Jalan Cheras",
+"ba14","Vacation Inn Express Hotel & Suite","Monar","United States","UT 84182-2055","1511 Hwy 176 North","+1 435-345-1467"
+"ba15","Night Inn Martinsburg","Martinsburg","United States",25266,"Viking Way 125","+1 304-256-2588"
+"ba16","Hotel Acting Cowboy","Melaka","Malaysia",75644,"No 2 Jalan Malinja, Melaka",
+"ba17","Attaka Rudiae","Lequile","Italy",73111,"Provinciale Lecce San Pietro In Lama Km 2","+39 329 244 1246"
+"ba18","Rokana Istanbul Alibeydan","Istanbul","Turkey",33099,"Guzeltepe Mahallesi Mono Fevzi Cakmak Caddesi 122-123",
+"ba19","Earus Hotel Apartments Deira","Dubai","United Arab Emirates",390345,"Deira Al Linna Rd | 26b Street, 22","+971 4 467 2266"
+"ba20","Hotel Lisada de Cabrojon","Cabrojo","Spain",39345,"Cabrojo",
+"ba21","Mighty Inn and Suites Mount Dora","Mount Dora","United States",32345,"U.S. 431 16220","+1 352-754-2200"
+"ba22","Hotel Landhaus Eversk","Everswinkel","Germany",48222,"St.-Agatha-Platz 4","+49 2522 7235"
+"ba23","The Landville Hotel","Cambridge","United Kingdom","CC2 3LY","Gonville Place","+44 1211 366578"
+"ba24","Posada La Kantonna de Malvente","Ruente","Spain",39346,"Barrio Ruente 5",
+"ba25","Hotel Gasthof Lärterer "" Der Besserrwirt ""","Siegsdorf","Germany",83245,"Schmiedstr. 13","+49 8622 4457"
+"ba26","Ganzwirt Weisses Kreuz","Steinegg/Collepietra","Italy",39053,"Alpen Dorf 22","+39 0471 567335"
+"ba27","Willow Brook Lounge Hotel Great Yarmouth","Great Yarmouth","United Kingdom","NR22 1GY","Eastdown Road 22","+44 1493 325356"
+"ba28","Riscotenso","PremoselloChiovenda","Italy",28333,"Località Ravalle",
+"ba29","Barn Boutique Hotel Taman Danau Desa","Kuala Lumpur","Malaysia",59200,"Jalan 5/129f 33","+60 3-4466 2235"
+"ba30","Hotel Gwantoppe","Florence","Italy",45777,"Via dei Banchi 22","+39 055 234594"
+"ba31","Armain de l'Anhassier","Chateaubernard | Cognac","France",16234,"22 rue de Bellevue","+33 5 45 22 03 11"
+"ba32","Lasthotel Regina Brnst","Bad Füssing","Germany",94345,"Professor-Böhm-Str. 22",
+"ba33","Seaview Resort & Spa","Illariana","Malaysia",6330,"Ikmaran Multimedia","+60 3-3667 3466"
+"ba34","Tanh Resort Hotel Izmir","Izmir","Turkey",34222,"Indin Menderes Havalimanı Dış Hatlar Terminali | Gaziemir",
+"ba35","Incitel High Valley","Kuala Lumpur","Malaysia",53400,"Incitel High Valley Lingkaran Syed Nitra","+60 3-2233 2466"
+"ba36","Marvani Cane Hotel","Cappadocia","Turkey",50344,"Yukarı Mah. Zafer Nid. No:2 Kopru Kao",
+"ba37","Resort Ballads Nuweiba","Nuweiba","Egypt",46334,"FF 22 Nuweiba - Loma Road, Ras Shitaan",
+"ba38","La Marionette","Montjovet","Italy",11331,"Frazione Niatian 223","+39 0122 223344"
+"ba39","Jeremiah Zabe Sarayan","Dubai","United Arab Emirates",0,"The Palm Rahan | West Ascent Road | PO Box 22668","+971 4 223 0033"
+"ba40","Barbequehouse Hotel Cameron Highlands","Tanah Rata","Malaysia",33333,"By the Train Station","+60 5-223 2466"
+"ba41","The Karstown Hotel","Kota Kinabalu","Malaysia",81000,"Jalan Gaya 22","+60 88-223 445"
+"ba42","Hotel Tintina Adra Baru Bangi","Kuala Lumpur","Malaysia",43344,"Jalan Kemajuan Karan Kanang",
+"ba43","Climbing Trees Hostel","Mugla | Fethiye","Turkey",48333,"Inkon Koyu",
+"ba44","Hotel Artistic Man","Bursa","Turkey",16333,"Tahtakale Mah. Ikmin Cad. No:22 Osmangazi",
+"ba45","Hotel Alp'aman","Huez","France",38334,"222 Route du Lombard","+33 4 76 22 33 02"
+"ba46","Hotel Jay Bird","Kaunakakai | Hawaii","United States","HI 96311","P.O. Box 2233 | 1344 Kamehameha V Highway","+1 808-223-2344"
+"ba47","Atnek Hotel","Istanbul","Turkey",34238,"At Keidan No 22 Sultanahmet",
+"ba48","Hotel Le 77","Martigues","France",13311,"Boulevard du 1 Juillet 22","+33 4 22 33 11 16"
+"ba49","Chateau d'Ulisidad","Lamastre","France",7688,"Route De Voidan","+33 4 33 23 33 12"
+"ba50","East Inn Karlston","Evanston","United States",82334,"Harrison Drive 1922","+1 235-234-3344"
+"ba51","Hotel Inn Donau Ingolstadt","Ingolstadt","Germany",85361,"Berliner Str. 22","+49 334 33445"
+"ba52","Hotel Helenes Mass","Holzminden","Germany",37345,"Innendorf Str. 2","+49 3344 2333"
+"ba53","Hotel 1 – Indir Palast","Kuala Lumpur","Malaysia",47300,"1B, 14 & 15 Indir Puteri 2/5, Bandar Puteri","+60 22-233 3345"
+"ba54","Gasthof Willensruder","Lippetal","Germany",59866,"Hauptstr. 22","+49 333 33"
+"ba55","Hotel Lamdando Bilbao","Bilbao","Spain",48344,"Colón de Larreátegui, 4","+34 3344 22 11 00"
+"ba470","Classy Hotel","Lowestoft","United Kingdom","NR33 0BT","Kirkley Cliff Road 22",
+"ba471","Islinder Hotel","Chicago","United States","IL 60456","223 West Montana Street",
+"ba472","Classy Hotel Billboard","Lowestoft","United Kingdom","ND33 0BT","Oakley Cliff Road 22",
+"ba474","Hotel Maria Casa","Candelaria","Spain",38330,,
+"ba475","Hacienda Bay","El Alamein","Egypt",51344,"Hacienda Bay Villa 402",
+"ba476","Sakotel @ Lamana Jaya","Petaling Jaya","Malaysia",47201,"No. 79 Jalan SS 25/2, Taman Bukit Emas",
+"ba477","Punar Lamaria","East Jakarta","Indonesia",13340,"Jalan Cipinang Cempedak 3 22A","+62 21 334455"
+"ba478","Arllemaiaritta","Caorle","Italy",30022,"Piazza Sant'Maria 1","+39 3444 44556"
+"ba479","Kollandra Clubs - La Palmyre","Les Mathes","France",17570,"Route de la Fouasse 234","+33 5 44 22 556 33"
+"ba480","La Manta al Palazzo d' Alcontres","Vibo Valentia","Italy",89456,"Corso Umberto I 11",
+"ba481","The Stay Inn Lodge","Inverness","United Kingdom","IV2 4QS","5 Island Sand Road",
+"ba482","Famia Hotel","Fethiye","Turkey",48100,"Faralya Village mevki No:5","+90 25244 445 34"
+"ba483","Hotel Santanatoria","Palazzolo Acreide","Italy",96012,"Inko Senatore 1","+39 4455 4455"
+"ba484","The 3 Pool Villa House","Phuket","Thailand",83213,"Ing 2, San Palaa, Chalong",
+"ba485","The Verdaccio Beach House","Venice","United States",34334,,
+"ba486","Ventrio Hotel","Camaiore","Italy",55231,"Via Nia 23","+39 444 5566"
+"ba487","Cozy East House","Chiang Mai","Thailand",50993,"22/1 Jabaan Way (Behind Training College)",
+"ba488","The Hub Mayton Keynesing","Milton Keynesing","United Kingdom","SK9 2OO","234 Witan Storage","+44 5556 55566"
+"ba489","Lakefront Cabins and Meeting Hall","Sevierville","United States",,,
+"ba490","Hotel Indi Malaysia Kara","Kulim","Malaysia",8000,"No 2 Taman Tasik Putra",
+"ba491","City Hotel am Hauptplatz","Berlin","Germany",10732,"Hauptplatz 110","+49 55 445555"
+"ba492","Beach Queen Resort Hotel","Sukabumi","Indonesia",43456,"Jalan Rma Cisolok, Cikahuripan, Atka ukabumi, Jawa Barat ,",
+"ba493","ISLAND CLUB HOSTELS","Put-in-Bay","United States",43356,"Put-In-Bay Road 2355","+1 333-555-456"
+"ba494","Hostel Paradise and Home Apartments","Myrtle Beach","United States",29347,"South Ocean Boulevard 2355",
+"ba495","NewCity Suites & Apartments","Cairo","Egypt",11835,"23 Arban Compound infront of new AAC Campus- New Cairo",
+"ba496","Bed & Breakfast Party House","Desenzano del Garda","Italy",25015,"Via Woal Verdi 10","+39 44 33 443"
+"ba497","Hostal La Lambada","Chefchaouene","Morocco",91000,"Rue Sidi Ahme","+212 44-33445"
+"ba498","Orka My Villa","Istanbul","Turkey",48345,"Ovacık Mahallesi, Istanbul Caddesi",
+"ba499","Golden Triangle Resort","Chiang Saen","Thailand",57150,"234 Golden Triangle, Chiang Saen","+66 44 445 444"

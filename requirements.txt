@@ -1,0 +1,9 @@
+jupyter_core
+jupyterlab
+pandas==1.2.2
+py-entitymatching==0.4.0
+textdistance==4.2.1
+postal==1.1.9
+phonenumbers==8.12.18
+deepmatcher==0.1.1
+pycountry==20.7.3
