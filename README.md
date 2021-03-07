@@ -41,6 +41,6 @@ and navigate to `Entity_Matching_Tutorial.ipynb`
 This tutorial includes a small sample dataset that will allow to run the tutorial in this repository. The hotels contained 
 in the dataset are generated automatically and do not refer to real-world hotels.
 
-The dataset includes 100 sample hotel record pairs already annotated:
-* 70 record pairs are true matches
-* 30 record pairs are negative matches
+The dataset includes 84 sample hotel record pairs already annotated:
+* 55 record pairs are true matches
+* 29 record pairs are negative matches
