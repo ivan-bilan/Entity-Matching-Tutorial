@@ -1,3 +1,22 @@
+## General Description of Entity Matching
+Entity matching describes the approach of finding records throughout different databases or any other 
+data storage types that refer to the same real-world entity. These entities are identified by crosschecking
+their identifiers such as name, address, phone number, and similar. Entity matching, also known as record 
+linkage, has applications in various scientific fields and industrial solutions. They range from matching 
+people in census data, bibliographic databases, 
+forensic data and DNA matching, physical objects like businesses, and many more. It is mainly 
+used to consolidate records of the same type and especially used with textual data. For example, when 
+matching company entities from two databases, we can match them by name and address and merge the two 
+databases into one. Additionally, entity matching is often used in the process of finding duplicates 
+within the same database.
+
+Entity Matching approaches usually follow similar steps. 
+The problem usually starts with data pre-processing step, then pre-filtering of potential candidate 
+pairs, record pair comparison, and finally classification of each record pair as a true or negative match.
+
+This tutorial shows how to apply threshold-based and neural based approaches to an Entity Matching task between two 
+record sources containing hotel entities.
+
 ## Setup
 To automatically create a conda environment (using Anaconda3) with Python 3.7, run the following command:
 ```
